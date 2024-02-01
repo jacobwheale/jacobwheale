@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jacob Wheale</h1>
+<h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A passionate developer from the UK</h3>
 
 - 🌱 I’m currently learning **Next.js, Golang**
